@@ -1,7 +1,6 @@
 header {
     background-color: #FFCC99;
-    box-shadow: -1px 2px 5px 1px 
-    rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 4px 2px -2px gray;
 }
 
 main {
@@ -12,13 +11,14 @@ main {
 aside {
     background-color: #B3D9FF;
     flex: 1;
-    border: solid 1px #CCCC;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-width: 1px;
 }
 
 footer {
     background-color: #99CC99;
-    box-shadow: -1px 2px 5px 1px 
-    rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 4px 2px -2px gray;
 }
 
 h1 {

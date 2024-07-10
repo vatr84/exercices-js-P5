@@ -2,12 +2,12 @@
 function checkAge(age) {
     let msg;
     if (age < 18) {
-        msg = "mineur";
-    } else if (age <= 65) {
-        msg = "majeur";
+        msg = "Vous êtes mineur.";
+    } else if (age < 65) {
+        msg = "Vous êtes majeur.";
     } else {
-        msg = "senior";
+        msg = "Vous êtes senior.";
     }
-    console.log("Vous êtes " + msg);
+    return msg;
 }
 export default checkAge;

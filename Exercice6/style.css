@@ -1,7 +1,7 @@
-li {
-  color: #007bff;
+ul li {
+  color: blue;
   padding-left: 10px;
-  padding-block: 15px;
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
