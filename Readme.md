@@ -11,3 +11,6 @@ Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous vo
 Si votre code est correct alors les tests seront décrits en vert. 
 
 Bon entraînement !
+
+
+<img src="./img/Exercice_1.JPG" alt="Exercice1">
