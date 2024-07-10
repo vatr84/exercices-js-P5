@@ -10,7 +10,8 @@ Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous vo
 
 Si votre code est correct alors les tests seront décrits en vert. 
 
-Bon entraînement !
+Exercice 1
+<img src="./img/Exercice_1.JPG" alt="Exercice1">  
 
-
-<img src="./img/Exercice_1.JPG" alt="Exercice1">
+Exercice 2
+<img src="./img/Exercice_2.JPG" alt="Exercice2">
