@@ -15,3 +15,27 @@ Exercice 1
 
 Exercice 2
 <img src="./img/Exercice_2.JPG" alt="Exercice2">
+
+Exercice 3
+<img src="./img/Exercice_3.JPG" alt="Exercice3">  
+
+Exercice 4
+<img src="./img/Exercice_4.JPG" alt="Exercice4">
+
+Exercice 5
+<img src="./img/Exercice_5.JPG" alt="Exercice5">  
+
+Exercice 6
+<img src="./img/Exercice_6.JPG" alt="Exercice6">
+
+Exercice 7
+<img src="./img/Exercice_7.JPG" alt="Exercice7">  
+
+Exercice 8
+<img src="./img/Exercice_8.JPG" alt="Exercice8">
+
+Exercice 9
+<img src="./img/Exercice_9.JPG" alt="Exercice9">  
+
+Exercice 10
+<img src="./img/Exercice_10.JPG" alt="Exercice10">  
